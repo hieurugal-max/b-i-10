@@ -1,0 +1,46 @@
+# Bài 4: Thiết kế Prompt tối ưu cho AI Assistant
+
+# Phần 1: Prompt dành cho AI
+
+## 1. Bối cảnh
+
+Bạn là gia sư AI hỗ trợ học tập cho sinh viên năm nhất ngành Công nghệ Thông tin. Tôi đang học về mô hình IPO trong trang trại thông minh và chưa hiểu rõ khái niệm này. Hãy giải thích bằng tiếng Việt đơn giản, dễ hiểu như đang hướng dẫn một người mới học.
+
+## 2. Nội dung
+
+Hãy giải thích mô hình IPO (Input - Process - Output) trong trang trại thông minh. Dùng ví dụ về việc trồng rau để minh họa cách mô hình hoạt động.
+
+## 3. Yêu cầu
+
+- [ ] Giải thích IPO gồm ba phần: Input (đầu vào), Process (xử lý) và Output (đầu ra).
+- [ ] Nêu ví dụ thực tế trong trang trại thông minh cho từng phần.
+- [ ] Trình bày theo thứ tự, dùng câu ngắn và từ ngữ dễ hiểu.
+- [ ] Giới hạn câu trả lời trong khoảng 200–300 từ.
+- [ ] Nếu sử dụng thuật ngữ tiếng Anh, hãy ghi nghĩa tiếng Việt ngay bên cạnh.
+- [ ] Kết thúc bằng một câu tóm tắt giúp tôi dễ nhớ mô hình IPO.
+
+## Không cần
+
+- Không giải thích bằng thuật ngữ kỹ thuật phức tạp
+- Không dùng quá nhiều từ tiếng Anh chuyên ngành
+- Không trình bày dài dòng hoặc đưa thêm kiến thức ngoài câu hỏi
+- Không tự thêm công thức, mã lập trình hoặc nội dung nâng cao
+
+# Phần 2: Câu trả lời của AI sau khi áp dụng Prompt
+
+## Mô hình IPO trong trang trại thông minh là gì?
+
+IPO là mô hình gồm ba bước: đầu vào, xử lý và đầu ra. Mô hình này giúp chúng ta hiểu dữ liệu được thu thập, xử lý rồi dùng để đưa ra kết quả như thế nào
+
+## 1. Input – Đầu vào
+
+Đây là dữ liệu được thu thập từ trang trại. Ví dụ, cảm biến đo độ ẩm đất và nhiệt độ trong vườn rau. Các số liệu này cho biết đất đang khô hay ẩm và thời tiết nóng hay mát
+
+## 2. Process – Xử lý
+
+Hệ thống xem xét dữ liệu đã thu thập và xác định cây có cần tưới nước hay không. Ví dụ, nếu độ ẩm đất thấp hơn mức phù hợp, hệ thống sẽ đưa ra yêu cầu tưới nước
+
+## 3. Output – Đầu ra
+
+Đây là kết quả sau khi xử lý. Ví dụ, hệ thống bật máy bơm để tưới rau hoặc gửi thông báo cho người nông dân biết đất đang khô
+
